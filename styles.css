@@ -37,7 +37,7 @@ body {
             width: auto;
             margin-right: 10px;
         }
-        button {
+        #submit {
             width: 100%;
             background-color: #28a745;
             color: white;
@@ -48,7 +48,7 @@ body {
             cursor: pointer;
             font-size: 16px;
         }
-        button:hover {
-            background-color: #218838;
+        #submit:hover {
+            background-color: blue;
         }
 /* Your CSS Code here. */
